@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app ",
+    "app": "nodemon app"
+  },
+  "author": "Lightning",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
